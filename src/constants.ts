@@ -55,7 +55,7 @@ export const SERVICES = [
     title: "Dental Implants",
     description: "Permanent solutions for missing teeth that look and feel natural.",
     icon: "CornerDownRight",
-    image: "/src/assets/images/regenerated_image_1778153986902.jpg"
+    image: "/src/assets/images/regenerated_image_1778155751935.jpg"
   }
 ];
 
