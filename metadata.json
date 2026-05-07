@@ -1,0 +1,12 @@
+{
+  "name": "Punit Bhardwaj Dental Clinic",
+  "description": "Premium dental care clinic in Noida offering orthodontics, cosmetic dentistry, and general dental health services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "Appointment Booking",
+    "Service Catalog",
+    "Healthcare Blog"
+  ]
+}
